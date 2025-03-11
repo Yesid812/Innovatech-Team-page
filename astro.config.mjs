@@ -11,5 +11,8 @@ export default defineConfig({
     plugins: [tailwindcss()]
   },
 
+  site: 'https://yesid812.github.io',
+  base: 'Innovatech-Team-page',
+
   integrations: [icon()]
 });
