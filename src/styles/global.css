@@ -5,7 +5,7 @@
 @theme {
   
     /* Colores base */
-    --primary-hsl: 221.2 83.2% 53.3%;
+    --primary-hsl: 	0 0% 9.8%;
     --primary-foreground-hsl: 210 40% 98%;
 
     --secondary-hsl: 210 40% 96.1%;
@@ -51,7 +51,6 @@
     --container-max-width: 1400px;
   }
 
-
 .dark {
   --background-hsl: 222.2 84% 4.9%;
   --foreground-hsl: 210 40% 98%;
@@ -76,7 +75,7 @@
   --ring-hsl: 224.3 76.3% 48%;
 
   /* Actualizar los valores concretos */
-  --primary: hsl(var(--primary-hsl));
+  --color-primary: hsl(var(--primary-hsl));
   --primary-foreground: hsl(var(--primary-foreground-hsl));
   --secondary: hsl(var(--secondary-hsl));
   --secondary-foreground: hsl(var(--secondary-foreground-hsl));

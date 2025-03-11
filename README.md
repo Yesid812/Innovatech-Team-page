@@ -1,4 +1,3 @@
-
 # InnovaTech Team page
 
 ```text
@@ -6,30 +5,24 @@
 
 ```
 
-
 ## Contenido
 
 - Nuestro equipo
 - Nuestro proyecto
 - Habilidades
 - Tecnologías
- 
 
-
-
-## Nuestro equipo 👨‍💻  
+## Nuestro equipo 👨‍💻
 
 - Eider Yesid Obando - WebMaster
 - Harold Velasquez - Lider
 - Laura Botina - Secretaria y FrontEnd-developer
 - Juliana Dazza - FrontEnd-developer
 
+## Tecnologías 💻
 
-## Tecnologías 💻 
-
-- React 
+- React
 - JavaScript
 - Java
 - SpringBoot
 - Sql
-
